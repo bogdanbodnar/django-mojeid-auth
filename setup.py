@@ -42,7 +42,7 @@ from distutils.core import setup
 
 
 description, long_description = __doc__.split('\n\n', 1)
-VERSION = '0.1'
+VERSION = '0.1.4'
 
 setup(
     name='django-mojeid',
